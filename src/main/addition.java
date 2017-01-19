@@ -12,11 +12,9 @@ import java.util.Scanner;
          System.out.println("Enter two nos");
          a=sc.nextInt();
          b=sc.nextInt();
-         //c=a+b;
+         c=a+b;
          
-         //c=a-b;
-         c=a*b;
-         //c=a/b;
+         
          System.out.println("Addition of two nos are" +c);
      
 }
