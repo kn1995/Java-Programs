@@ -13,6 +13,7 @@ import java.util.Scanner;
          a=sc.nextInt();
          b=sc.nextInt();
          //c=a+b;
+         
          //c=a-b;
          c=a*b;
          //c=a/b;
